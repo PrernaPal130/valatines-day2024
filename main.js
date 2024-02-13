@@ -3,7 +3,7 @@ function yes() {
     document.getElementById('yesorno').style.display = 'none';
     document.getElementById('yesgif').style.display = 'block';
     document.getElementById('cutegif').style.display='none';
-    document.body.style.backgroundColor = black;
+    document.body.style.backgroundColor = 'grey';
 }
 
 function no() {
