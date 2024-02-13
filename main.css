@@ -1,0 +1,53 @@
+body{
+    background-color: lightpink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+
+}
+.yes{
+    background-color: red;
+    border:none;
+    margin-left: 1px;
+    width: 70px;
+    height: 40px;
+    color: aliceblue;
+}
+.no{
+    background-color:rgb(31, 165, 31);
+    border:none;
+    margin-left: 8px;
+    width: 70px;
+    height: 40px;
+    color: aliceblue;
+}
+.yes:hover{
+    width:75px;
+}
+.no:hover{
+    width:75px;
+}
+.mainblock{
+    text-align: center;
+}
+.yesorno{
+    display: flex;
+  justify-content: center;
+}
+.total{
+    text-align: center;
+}
+.image-conatiner{
+    display: inline-block;
+}
+.nomeme{
+    display: block;
+    margin: 0 auto;
+    height: 200px; 
+    
+}
+.cutegif{
+    height:200px;
+}
